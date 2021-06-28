@@ -1,4 +1,4 @@
-# cbas plus
+# cbas+
 Mighty Mineman resource-pack
 
 ## Yoda Launcher
