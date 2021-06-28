@@ -7,7 +7,8 @@ An automatic resource-pack updater!
 
 The instructions are simple:
 
-- <a href="https://raw.githubusercontent.com/cbasreis/cbas-plus/main/yoda-launcher.bat" download target="_blank">Download yoda-launcher.bat</a> and save it anywhere you want (Ex: Desktop)
+- [Right click on this link](https://raw.githubusercontent.com/cbasreis/cbas-plus/main/yoda-launcher.bat) and save it to download the yoda-launcher.bat file in the correct format and save it anywhere you want (Ex: Desktop).
+  - Note that the file needs to end in a .bat file!
 - Double click it and it will automatically check for a new resource-pack version!
-  - If the local resource-pack is up-to-date, it will simply launch the original Minecraft launcher.
+  - When the local resource-pack is up-to-date, it will simply launch the original Minecraft launcher.
 - That's it!
