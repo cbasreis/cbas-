@@ -1,0 +1,8 @@
+{
+    "parent": "block/anvil",
+    "textures": {
+        "particle": "block/anvil_base",
+        "body": "block/anvil_base",
+        "top": "block/anvil_top_damaged_1"
+    }
+}

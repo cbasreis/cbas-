@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+       { "model": "block/andesite", "weight": 200, "uvlock": true},
+       { "model": "block/andesite", "weight": 200 , "y": 90, "uvlock": true},
+       { "model": "block/andesite", "weight": 200 , "y": 180, "uvlock": true},
+       { "model": "block/andesite", "weight": 200 , "y": 270, "uvlock": true},
+       { "model": "block/andesite_rock", "weight": 2 , "uvlock": true },
+       { "model": "block/andesite_rock", "weight": 2 , "y": 90, "uvlock": true},
+       { "model": "block/andesite_rock", "weight": 2 , "y": 180, "uvlock": true},
+       { "model": "block/andesite_rock", "weight": 2 , "y": 270, "uvlock": true},
+       { "model": "block/andesite_rock1", "weight": 2 , "uvlock": true },
+       { "model": "block/andesite_rock1", "weight": 2 , "y": 90, "uvlock": true},
+       { "model": "block/andesite_rock1", "weight": 2 , "y": 180, "uvlock": true},
+       { "model": "block/andesite_rock1", "weight": 2 , "y": 270, "uvlock": true}
+    
+
+
+      ]
+    }
+  }
