@@ -20,7 +20,7 @@ jobs:
       with:
         filename: 'cbas+.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
-        path: cbas+/*
+        directory: cbas+/
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
