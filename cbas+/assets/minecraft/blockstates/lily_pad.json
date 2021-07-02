@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "": [ { "model": "block/lily_pad/lily_pad", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad1", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad2", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad3", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad4", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad5", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad6", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad7", "weight":5 }
+,{ "model": "block/lily_pad/lily_pad8", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad9", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad10", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad11", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad12", "weight":1 }
+,{ "model": "block/lily_pad/lily_pad13", "weight":3 }
+ ]   }
+}
