@@ -1,8 +1,9 @@
 name: Create Archive
 on:
-  push:
-    branches:
-      - main
+  [push]
+  # push:
+  #   branches:
+  #     - main
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,7 +14,9 @@ jobs:
       with:
         filename: 'cbas+.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
-    - uses: ncipollo/release-action@v1
+    - uses: "marvinpinto/action-automatic-releases@latest"
       with:
-        artifacts: "cbas+.zip"
-        token: ${{ secrets.GITHUB_TOKEN }}
+        repo_token: "${{ secrets.GITHUB_TOKEN }}"
+        automatic_release_tag: "latest"
+        files: |
+          cbas+.zip
