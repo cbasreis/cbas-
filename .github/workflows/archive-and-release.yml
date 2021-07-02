@@ -20,7 +20,7 @@ jobs:
     - name: Log
       run: |
         ls .
-        ls cbas+\assets\minecraft\optifine\cit\icons\cbas
+        ls cbas+/assets/minecraft/optifine/cit/icons/cbas
     - name: Archive
       uses: thedoctor0/zip-release@master
       with:
