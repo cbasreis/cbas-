@@ -23,10 +23,9 @@ jobs:
         ls .
         ls cbas+/assets/minecraft/optifine/cit/icons/cbas
     - name: Archive
-      uses: papeloto/action-zip@v1
+      uses: TonyBogdanov/zip@1.0
       with:
-        files: cbas+/
-        dest: cbas+.zip
+        args: zip -qq -r ./cbas+.zip ./cbas+/
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
