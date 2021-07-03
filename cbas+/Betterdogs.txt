@@ -9,11 +9,7 @@ You can  get a specific type of dog AND give said dog a custom name using name t
 To achieve this, the name tag must include one of the words on the Supported name tags listed below:
 
 
-Some examples of possible name tags:
-- Baloo (pug) 
-- (shepherd) Wilbur
-- Daisy beagle 
-- dalmatian Spot
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 Supported name tags (Case-insensitive) :
@@ -125,3 +121,11 @@ Supported name tags (Case-insensitive) :
 
 • Jack russel terrier
 - Alternatives: Jack russel
+
+---------------------------------------------------------------------------------
+
+Some examples of possible name tags:
+- Baloo (pug) 
+- (shepherd) Wilbur
+- Daisy beagle 
+- dalmatian Spot
