@@ -18,13 +18,13 @@ jobs:
         release_branches: main
     - name: Log
       run: |
-        ls .
-        ls cbas+/
-    - name: Archive
+        ls ${HOME}/work
+    - name: Install zip
       uses: montudor/action-zip@v1
-      with:
-        args: zip -qq -r test.zip .
-        working-directory: cbas+
+
+    - name: Archive
+      run: zip -qq -r test2.zip .
+      working-directory: ${HOME}/cbas+
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
