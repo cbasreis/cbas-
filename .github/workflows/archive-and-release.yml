@@ -16,15 +16,11 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         default_bump: minor
         release_branches: main
-    - name: Log
-      run: |
-        ls ${HOME}/work/cbas-plus
     - name: Install zip
       uses: montudor/action-zip@v1
-
     - name: Archive
       run: zip -qq -r test2.zip .
-      working-directory: ${HOME}/work/cbas-plus
+      working-directory: cbas+
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
