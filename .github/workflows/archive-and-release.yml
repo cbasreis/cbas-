@@ -26,12 +26,11 @@ jobs:
     - name: Archive
       uses: montudor/action-zip@v1
       with:
-        args: zip -qq -r cbas+.zip .
-        working-directory: cbas+
+        args: zip -qq -r test.zip .
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: cbas+.zip
+        files: test.zip
         tag_name: ${{ steps.tag_version.outputs.new_tag }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
