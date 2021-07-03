@@ -24,7 +24,7 @@ jobs:
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: test2.zip
+        files: cbas+/test2.zip
         tag_name: ${{ steps.tag_version.outputs.new_tag }}
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
