@@ -20,6 +20,7 @@ jobs:
       run: |
         ls .
         ls cbas+/
+        ls ${HOME}
     - name: Archive
       uses: montudor/action-zip@v1
       with:
