@@ -1,7 +1,0 @@
-{
-    "parent": "block/pane_side_alt",
-    "textures": {
-        "edge": "block/glass_pane_top_silver",
-        "pane": "block/glass_silver"
-    }
-}
