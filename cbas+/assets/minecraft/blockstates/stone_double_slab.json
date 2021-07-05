@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "": { "model": "block/double_stone" },
+        "all":    { "model": "block/double_stone_top" }
+    }
+}
