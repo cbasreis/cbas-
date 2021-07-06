@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=lower": { "model": "block/double_syringa_bottom" },
-        "half=upper":    { "model": "block/double_syringa_top" }
-    }
-}
