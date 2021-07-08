@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "snowy=false": { "model": "block/podzol" }
+    }
+}

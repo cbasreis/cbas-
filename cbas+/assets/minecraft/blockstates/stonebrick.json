@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/stonebrick_normal", "weight":4 },
+		{ "model": "block/stonebrick_light", "weight":2},
+		{ "model": "block/stonebrick_dark", "weight":2}
+		]
+    }
+}
