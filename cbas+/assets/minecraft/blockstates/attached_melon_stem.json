@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=west": { "model": "block/melon_stem_fruit" },
-        "facing=east": { "model": "block/melon_stem_fruit", "y": 180 },
-        "facing=north": { "model": "block/melon_stem_fruit", "y": 90 },
-        "facing=south": { "model": "block/melon_stem_fruit", "y": 270 }
-    }
-}

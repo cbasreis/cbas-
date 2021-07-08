@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-		{ "model": "block/fern", "weight": 5 },
-		{ "model": "block/fern_2", "weight": 2 } 
-		]
-    }
-}
