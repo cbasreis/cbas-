@@ -1,0 +1,127 @@
+###################################################################################
+###############################    BETTER DOGS   ##################################
+###################################################################################
+
+How it works / Getting a specific type of dog:
+
+A newly tamed wolf turns into a random dog. 
+You can  get a specific type of dog AND give said dog a custom name using name tags.
+To achieve this, the name tag must include one of the words on the Supported name tags listed below:
+
+
+Some examples of possible name tags:
+- Baloo (pug) 
+- (shepherd) Wilbur
+- Daisy beagle 
+- dalmatian Spot
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Supported name tags (Case-insensitive) :
+
+• Wolf
+
+• Border collie
+- Alternatives: Collie, bc
+
+• Labrador retriever
+- Alternatives: Labrador, Lab.
+
+• Golden retriever
+- Alternatives: Golden
+
+• Husky
+
+• German shepherd
+- Alternatives: Gshepherd, gs, gsd
+
+
+• Corgi
+
+
+• Pug
+
+
+• Dalmatian
+
+
+• Samoyed
+
+
+• Beagle
+
+
+• Bull terrier
+
+- Alternative (easter egg): Walter
+
+
+• Shiba Inu
+- Alternatives:Shiba, Inu.
+
+
+• Australian shepherd
+- Alternative: Ashepherd
+
+• Dachshund
+- Alternatives: Teckel, dackel
+
+• Chihuahua
+
+• Cerberus
+
+• Skeleton
+- Alternative: Grimm
+
+• Wither
+
+
+• Bulldog
+
+ 
+
+• Dobermann
+- Alternatives: doberman, doberman pinscher, dobermann pinscher, dp
+
+ 
+
+* • Dobermanc
+- Alternative: dpc
+
+
+
+
+• Cavalier king charles spaniel
+- Alternatives: cavalier king charles, king charles spaniel, king charles, kc
+
+
+• Great dane
+- Alternatives: gd
+
+* • Great danec
+- Alternatives: gdc
+
+
+• Rottweiler 
+
+
+• Neapolitan Mastiff 
+- Alternatives: nm
+
+• West Highland White Terrier
+- Alternatives: White terrier, Westie
+
+• St Bernard
+- Alternatives: Bernard
+
+• Cairn terrier
+- Alternatives: Cairn
+
+• Boxer
+
+• Poodle
+
+• Bernese mountain dog
+- Alternatives: Bernese, bmd
+
+• Jack russel terrier
+- Alternatives: Jack russel
