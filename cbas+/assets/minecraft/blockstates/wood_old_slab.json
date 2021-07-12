@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom": { "model": "block/half_slab_oak" },
-        "half=top": { "model": "block/upper_slab_oak" }
-    }
-}

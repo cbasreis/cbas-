@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "": { "model": "block/nether_brick" },
-        "all":    { "model": "block/nether_brick" }
-    }
-}
