@@ -1,12 +1,24 @@
 {
-	"variants": {
-		"": [
-			{ "model": "block/red_mushroom_1" },
-			{ "model": "block/red_mushroom_2" },
-			{ "model": "block/red_mushroom_3" },
-			{ "model": "block/red_mushroom_4" },
-			{ "model": "block/red_mushroom_5" },
-			{ "model": "block/red_mushroom_6" }
-		]
-	}
+    "variants": {
+        "": [
+            { "model": "block/mushrooms/red_mushroom1", "weight": 10},
+            { "model": "block/mushrooms/red_mushroom1", "weight": 10, "y": 90 },
+            { "model": "block/mushrooms/red_mushroom1", "weight": 10, "y": 180 },
+            { "model": "block/mushrooms/red_mushroom1", "weight": 10, "y": 270 },
+            { "model": "block/mushrooms/red_mushroom2", "weight": 20},
+            { "model": "block/mushrooms/red_mushroom2", "weight": 20, "y": 90 },
+            { "model": "block/mushrooms/red_mushroom2", "weight": 20, "y": 180 },
+            { "model": "block/mushrooms/red_mushroom2", "weight": 20, "y": 270 },
+            { "model": "block/mushrooms/red_mushroom3", "weight": 10},
+            { "model": "block/mushrooms/red_mushroom3", "weight": 10, "y": 90 },
+            { "model": "block/mushrooms/red_mushroom3", "weight": 10, "y": 180 },
+            { "model": "block/mushrooms/red_mushroom3", "weight": 10, "y": 270 },
+            { "model": "block/mushrooms/red_mushroom4", "weight": 10},
+            { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 90 },
+            { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 180 },
+            { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 270 },
+            { "model": "block/mushrooms/red_pixie_house", "weight": 1}
+        ]
+    }
 }
+

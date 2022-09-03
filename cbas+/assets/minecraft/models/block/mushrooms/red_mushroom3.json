@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/mushrooms/red_mushroom3"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 2, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.5, 0, 12]},
+			"faces": {
+				"north": {"uv": [16, 5, 14, 7], "texture": "#1"},
+				"east": {"uv": [16, 5, 14, 7], "texture": "#1"},
+				"south": {"uv": [16, 5, 14, 7], "texture": "#1"},
+				"west": {"uv": [16, 5, 14, 7], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 2, 5],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 4]},
+			"faces": {
+				"north": {"uv": [0, 7, 6, 11], "texture": "#1"},
+				"east": {"uv": [0, 7, 6, 11], "texture": "#1"},
+				"south": {"uv": [0, 7, 6, 11], "texture": "#1"},
+				"west": {"uv": [0, 7, 6, 11], "texture": "#1"},
+				"up": {"uv": [0, 0, 6, 6], "texture": "#1"},
+				"down": {"uv": [7, 0, 13, 6], "texture": "#1"}
+			}
+		}
+	]
+}

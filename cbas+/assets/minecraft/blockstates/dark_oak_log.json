@@ -1,0 +1,18 @@
+{
+  "variants":{
+		"axis=x":[
+		{ "model": "minecraft:block/dark_oak_log", "x": 90, "y": 90 }
+						
+	],
+		"axis=y":[
+		{ "model": "minecraft:block/dark_oak_log", "weight":40},
+            { "model": "block/mushrooms/dark_oak_log1", "weight": 2},
+            { "model": "block/mushrooms/dark_oak_log1", "weight": 2, "y": 90 },
+            { "model": "block/mushrooms/dark_oak_log1", "weight": 2, "y": 180 },
+            { "model": "block/mushrooms/dark_oak_log1", "weight": 2, "y": 270 }
+	],
+		"axis=z": [
+		{ "model": "minecraft:block/dark_oak_log","x": 90 }
+	]
+  }
+}

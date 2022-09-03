@@ -32,6 +32,8 @@ feios
 Cota do Cabelo
 Karl
 Xisumavoid
+FreshLX
+Ensis
 
 Copyright
 ############################################
@@ -41,7 +43,7 @@ It is not to be distributed for comercial uses
 and all assets within this resource pack 
 are under the copyright of cbas or the already mentioned creators
 
-©cbasreis 2020/2021: All Rights Reserved
+©cbasreis 2020/2022: All Rights Reserved
 
 
 

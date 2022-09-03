@@ -1,13 +1,22 @@
 {
-	"variants": {
-		"": [
-			{ "model": "block/brown_mushroom_1" },
-			{ "model": "block/brown_mushroom_2" },
-			{ "model": "block/brown_mushroom_3" },
-			{ "model": "block/brown_mushroom_4" },
-			{ "model": "block/brown_mushroom_5" },
-			{ "model": "block/brown_mushroom_6" },
-			{ "model": "block/brown_mushroom_7" }
-		]
-	}
+    "variants": {
+        "": [
+            { "model": "block/mushrooms/brown_mushroom1", "weight": 10},
+            { "model": "block/mushrooms/brown_mushroom1", "weight": 10, "y": 90 },
+            { "model": "block/mushrooms/brown_mushroom1", "weight": 10, "y": 180 },
+            { "model": "block/mushrooms/brown_mushroom1", "weight": 10, "y": 270 },
+            { "model": "block/mushrooms/brown_mushroom2", "weight": 20},
+            { "model": "block/mushrooms/brown_mushroom2", "weight": 20, "y": 90 },
+            { "model": "block/mushrooms/brown_mushroom2", "weight": 20, "y": 180 },
+            { "model": "block/mushrooms/brown_mushroom2", "weight": 20, "y": 270 },
+            { "model": "block/mushrooms/brown_mushroom3", "weight": 10},
+            { "model": "block/mushrooms/brown_mushroom3", "weight": 10, "y": 90 },
+            { "model": "block/mushrooms/brown_mushroom3", "weight": 10, "y": 180 },
+            { "model": "block/mushrooms/brown_mushroom3", "weight": 10, "y": 270 },
+            { "model": "block/mushrooms/brown_mushroom4", "weight": 10},
+            { "model": "block/mushrooms/brown_mushroom4", "weight": 10, "y": 90 },
+            { "model": "block/mushrooms/brown_mushroom4", "weight": 10, "y": 180 },
+            { "model": "block/mushrooms/brown_mushroom4", "weight": 10, "y": 270 }
+        ]
+    }
 }
