@@ -1,7 +1,8 @@
 # cbas+
+
 Mighty Mineman resource-pack
 
-## Yoda Launcher
+## Yoda Launcher (deprecated)
 
 An automatic resource-pack updater!
 
