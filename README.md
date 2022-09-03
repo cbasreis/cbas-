@@ -2,6 +2,24 @@
 
 Mighty Mineman resource-pack
 
+## Custom items
+
+- [Armors and shields](#armors-and-shields)
+- [Weapons and tools](#weapons-and-tools)
+- [Bows and crossbows](#bows-and-crossbows)
+
+### Armors and shields
+
+<img src="cbas+/Armors and Shields.png" />
+
+### Weapons and tools
+
+<img src="cbas+/Weapons & Tools.png" />
+
+### Bows and crossbows
+
+<img src="cbas+/Bows & XBows.png" />
+
 ## Yoda Launcher (deprecated)
 
 An automatic resource-pack updater!
