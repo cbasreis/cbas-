@@ -16,8 +16,7 @@
             { "model": "block/mushrooms/red_mushroom4", "weight": 10},
             { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 90 },
             { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 180 },
-            { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 270 },
-            { "model": "block/mushrooms/red_pixie_house", "weight": 1}
+            { "model": "block/mushrooms/red_mushroom4", "weight": 10, "y": 270 }
         ]
     }
 }
