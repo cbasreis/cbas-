@@ -1,21 +1,29 @@
 {
   "variants": {
     "": [
-       { "model": "block/granite", "weight": 200, "uvlock": true},
-       { "model": "block/granite", "weight": 200 , "y": 90, "uvlock": true},
-       { "model": "block/granite", "weight": 200 , "y": 180, "uvlock": true},
-       { "model": "block/granite", "weight": 200 , "y": 270, "uvlock": true},
-       { "model": "block/granite_rock", "weight": 2 , "uvlock": true },
-       { "model": "block/granite_rock", "weight": 2 , "y": 90, "uvlock": true},
-       { "model": "block/granite_rock", "weight": 2 , "y": 180, "uvlock": true},
-       { "model": "block/granite_rock", "weight": 2 , "y": 270, "uvlock": true},
-       { "model": "block/granite_rock1", "weight": 2 , "uvlock": true },
-       { "model": "block/granite_rock1", "weight": 2 , "y": 90, "uvlock": true},
-       { "model": "block/granite_rock1", "weight": 2 , "y": 180, "uvlock": true},
-       { "model": "block/granite_rock1", "weight": 2 , "y": 270, "uvlock": true}
-    
-
-
-      ]
-    }
+      {
+        "model": "block/granite",
+        "weight": 200,
+        "uvlock": true
+      },
+      {
+        "model": "block/granite",
+        "weight": 200,
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "block/granite",
+        "weight": 200,
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "block/granite",
+        "weight": 200,
+        "y": 270,
+        "uvlock": true
+      }
+    ]
   }
+}
