@@ -1,29 +1,29 @@
 {
   "variants": {
     "": [
-      {
-        "model": "block/stone",
-        "weight": 200,
-        "uvlock": true
-      },
-      {
-        "model": "block/stone",
-        "weight": 200,
-        "y": 90,
-        "uvlock": true
-      },
-      {
-        "model": "block/stone",
-        "weight": 200,
-        "y": 180,
-        "uvlock": true
-      },
-      {
-        "model": "block/stone",
-        "weight": 200,
-        "y": 270,
-        "uvlock": true
-      }
-    ]
+       { "model": "block/stone", "weight": 200, "uvlock": true},
+       { "model": "block/stone", "weight": 200 , "y": 90, "uvlock": true},
+       { "model": "block/stone", "weight": 200 , "y": 180, "uvlock": true},
+       { "model": "block/stone", "weight": 200 , "y": 270, "uvlock": true},
+       { "model": "block/stone_rock", "weight": 2 , "uvlock": true },
+       { "model": "block/stone_rock", "weight": 2 , "y": 90, "uvlock": true},
+       { "model": "block/stone_rock", "weight": 2 , "y": 180, "uvlock": true},
+       { "model": "block/stone_rock", "weight": 2 , "y": 270, "uvlock": true},
+       { "model": "block/stone_rock1", "weight": 2 , "uvlock": true },
+       { "model": "block/stone_rock1", "weight": 2 , "y": 90, "uvlock": true},
+       { "model": "block/stone_rock1", "weight": 2 , "y": 180, "uvlock": true},
+       { "model": "block/stone_rock1", "weight": 2 , "y": 270, "uvlock": true},
+       { "model": "block/stone_rock2", "weight": 2 ,"uvlock": true},
+       { "model": "block/stone_rock2", "weight": 2 , "y": 90,"uvlock": true},
+       { "model": "block/stone_rock2", "weight": 2 , "y": 180, "uvlock": true},
+       { "model": "block/stone_rock2", "weight": 2 , "y": 270, "uvlock": true},
+       { "model": "block/stone_rock3", "weight": 2 ,"uvlock": true},
+       { "model": "block/stone_rock3", "weight": 2 , "y": 90, "uvlock": true},
+       { "model": "block/stone_rock3", "weight": 2 , "y": 180, "uvlock": true},
+       { "model": "block/stone_rock3", "weight": 2 , "y": 270, "uvlock": true}
+    
+
+
+      ]
+    }
   }
-}
