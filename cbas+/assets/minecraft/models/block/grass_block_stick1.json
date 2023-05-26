@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/sticksandstones_0",
-		"1": "custom/sticksandstones_1",
+		"0": "block/acacia_log",
+		"1": "block/acacia_log",
 		"particle": "block/dirt",
 		"4_bottom": "block/dirt",
 		"4_top": "block/grass_block_top",

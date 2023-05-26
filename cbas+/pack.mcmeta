@@ -1,1 +1,10 @@
-{ "pack" : { "pack_format" : 9, "description" : "Vanilla & cbas+ for 1.19+" } }
+{ 
+
+	"pack" : {
+		
+		"pack_format" : 7,
+
+		"description" : "Vanilla & cbas+ for 1.19+"
+	}
+
+}
