@@ -2,7 +2,7 @@
 
 	"pack" : {
 		
-		"pack_format" : 7,
+		"pack_format" : 9,
 
 		"description" : "Vanilla & cbas+ for 1.19+"
 	}

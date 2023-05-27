@@ -7,8 +7,8 @@
 		"19": "block/jungle_log",
 		"8_bottom": "block/dirt",
 		"8_top": "block/grass_block_top",
-		"8_side": "block/grass_block_side",
-		"8_overlay": "block/grass_block_side_overlay",
+		"8_side": "block/dirt",
+		"8_overlay": "block/dirt",
 		"particle": "block/dirt"
 	},
 	"elements": [
