@@ -1,11 +1,10 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"18": "block/acacia_log",
-		"19": "block/acacia_log",
+		"18": "block/jungle_log",
+		"19": "block/jungle_log",
 		"8_bottom": "block/dirt",
 		"8_top": "block/grass_block_top",
 		"8_side": "block/grass_block_side",
